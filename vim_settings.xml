@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1544360924175">
+      <file name="/Dummy.txt" timestamp="1544364262057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -31,9 +31,6 @@
         <mark key="^" line="30" column="11" />
         <mark key="n" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_menu.xml" timestamp="1543146159623">
-        <mark key="'" line="30" column="53" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_main.xml" timestamp="1543138023078">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="30" />
@@ -51,9 +48,9 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1544360317958">
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/res/layout/activity_main.xml" timestamp="1544278796666">
         <mark key="[" line="7" column="0" />
@@ -83,6 +80,9 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_main.xml" timestamp="1544327500060">
         <mark key="[" line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544364361653">
+        <mark key="[" line="9" column="40" />
+      </file>
       <file name="/fragment.java" timestamp="1544320937105">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>editTex</text>
+        <text>button2</text>
       </register>
       <register name="-" type="4">
-        <text>editTex</text>
+        <text>button2</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
