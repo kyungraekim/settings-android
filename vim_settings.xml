@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1544327541900">
+      <file name="/Dummy.txt" timestamp="1544360924175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -51,9 +51,9 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1544360317958">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/res/layout/activity_main.xml" timestamp="1544278796666">
         <mark key="[" line="7" column="0" />
@@ -97,10 +97,19 @@
       <jump line="30" column="53" filename="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_menu.xml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2FsbGJhY2sgdG8gaW5kaWNhdGUgdGhhdCB7QGxpbmsgI3N0YXJ0TG9jYWxWb2ljZUludGVyYWN0aW9uKEJ1bmRsZSl9IGhhcyByZXN1bHRlZCBpbiBhCiAgICAgKiB2b2ljZSBpbnRlcmFjdGlvbiBzZXNzaW9uIGJlaW5nIHN0YXJ0ZWQuIFlvdSBjYW4gbm93IHJldHJpZXZlIGEgdm9pY2UgaW50ZXJhY3RvciB1c2luZwogICAgICoge0BsaW5rICNnZXRWb2ljZUludGVyYWN0b3IoKX0uCiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb2NhbFZvaWNlSW50ZXJhY3Rpb25TdGFydGVkKCkgewogICAgICAgIHN1cGVyLm9uTG9jYWxWb2ljZUludGVyYWN0aW9uU3RhcnRlZCgpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>editTex</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="-" type="4">
+        <text>editTex</text>
+      </register>
+      <register name="/" type="4">
+        <text>orient</text>
+      </register>
+      <register name="0" type="4">
+        <text />
+      </register>
+      <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQ2FsbGJhY2sgdG8gaW5kaWNhdGUgdGhhdCB7QGxpbmsgI3N0YXJ0TG9jYWxWb2ljZUludGVyYWN0aW9uKEJ1bmRsZSl9IGhhcyByZXN1bHRlZCBpbiBhCiAgICAgKiB2b2ljZSBpbnRlcmFjdGlvbiBzZXNzaW9uIGJlaW5nIHN0YXJ0ZWQuIFlvdSBjYW4gbm93IHJldHJpZXZlIGEgdm9pY2UgaW50ZXJhY3RvciB1c2luZwogICAgICoge0BsaW5rICNnZXRWb2ljZUludGVyYWN0b3IoKX0uCiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb2NhbFZvaWNlSW50ZXJhY3Rpb25TdGFydGVkKCkgewogICAgICAgIHN1cGVyLm9uTG9jYWxWb2ljZUludGVyYWN0aW9uU3RhcnRlZCgpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
@@ -126,12 +135,6 @@
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4K</text>
-      </register>
-      <register name="-" type="4">
-        <text>TextView</text>
-      </register>
-      <register name="/" type="4">
-        <text>orient</text>
       </register>
     </registers>
     <search>
