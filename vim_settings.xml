@@ -8,8 +8,11 @@
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/AndroidManifest.xml" timestamp="1544367842485">
-        <mark key="[" line="28" column="35" />
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/AndroidManifest.xml" timestamp="1544369287610">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="65" />
+        <mark key="^" line="4" column="65" />
+        <mark key="." line="4" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_main.xml" timestamp="1543138023078">
         <mark key="[" line="10" column="30" />
@@ -36,7 +39,7 @@
         <mark key="]" line="682" column="0" />
         <mark key="." line="682" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544364361653">
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1544367816566">
@@ -98,16 +101,19 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/build.gradle" timestamp="1544368956374">
+        <mark key="[" line="7" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="30" column="53" filename="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_menu.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>button2</text>
+        <text encoding="base64">IjwvdXNlcy1wZXJtaXNzaW9uPg==</text>
       </register>
       <register name="-" type="4">
-        <text>button2</text>
+        <text encoding="base64">IjwvdXNlcy1wZXJtaXNzaW9uPg==</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
