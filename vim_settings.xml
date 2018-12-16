@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544966599076">
+      <file name="/Dummy.txt" timestamp="1544966950174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -135,10 +135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Butt</text>
+        <text>Button</text>
       </register>
       <register name="-" type="4">
-        <text>Butt</text>
+        <text>Button</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
