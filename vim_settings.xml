@@ -37,6 +37,7 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/activity_focus.java" timestamp="1544949984963">
         <mark key="[" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/ProgressDialog.java" timestamp="1544972671944" />
       <file name="$USER_HOME$/workspace/android/SampleCallIntent/app/src/main/java/com/example/kyungraekim/samplecallintent/MainActivity.java" timestamp="1544281777363">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="31" />
@@ -57,7 +58,7 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544971984856">
+      <file name="/Dummy.txt" timestamp="1544972946382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,10 +76,10 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1544953690141">
-        <mark key="[" line="160" column="5" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1544972888457">
+        <mark key="[" line="154" column="5" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/drawable/button_selector.xml" timestamp="1544952550337">
         <mark key="[" line="2" column="8" />
@@ -97,8 +98,8 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ParcelActivity.java" timestamp="1544326522039">
         <mark key="[" line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ProgressActivity.java" timestamp="1544972006633">
-        <mark key="[" line="10" column="51" />
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ProgressActivity.java" timestamp="1544973245003">
+        <mark key="[" line="17" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toast.xml" timestamp="1544965870228">
         <mark key="[" line="4" column="0" />
