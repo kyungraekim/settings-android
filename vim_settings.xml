@@ -8,7 +8,9 @@
         <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/AndroidManifest.xml" timestamp="1544959608653" />
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/AndroidManifest.xml" timestamp="1544962796429">
+        <mark key="[" line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/values/colors.xml" timestamp="1544941142648">
         <mark key="[" line="4" column="45" />
       </file>
