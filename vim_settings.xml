@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544952528888">
+      <file name="/Dummy.txt" timestamp="1544953666756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -84,10 +84,10 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1544941854805">
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1544953690141">
+        <mark key="[" line="159" column="5" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/drawable/button_selector.xml" timestamp="1544952550337">
         <mark key="[" line="2" column="8" />
@@ -107,7 +107,7 @@
         <mark key="[" line="9" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_main.xml" timestamp="1544942093480">
-        <mark key="[" line="76" column="17" />
+        <mark key="[" line="77" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_focus.xml" timestamp="1544950381351">
         <mark key="[" line="7" column="0" />
@@ -130,10 +130,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bTwvaXRlbT4=</text>
+        <text>button2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bTwvaXRlbT4=</text>
+        <text>button2</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
