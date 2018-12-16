@@ -25,6 +25,12 @@
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/java/kyungraekim/dev/hellotest/MenuActivity.java" timestamp="1544277300188">
         <mark key="[" line="18" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ToastActivity.java" timestamp="1544966551231">
+        <mark key="[" line="62" column="1" />
+        <mark key="]" line="56" column="20" />
+        <mark key="^" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/AndroidManifest.xml" timestamp="1544278392163">
         <mark key="[" line="18" column="58" />
       </file>
@@ -45,10 +51,13 @@
         <mark key="]" line="682" column="0" />
         <mark key="." line="682" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/drawable/toast.xml" timestamp="1544966001371">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544964113379">
+      <file name="/Dummy.txt" timestamp="1544966599076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -57,13 +66,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/SimpleData.java" timestamp="1544322925929">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="30" column="11" />
-        <mark key="n" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/sub1.xml" timestamp="1544277133852">
         <mark key="[" line="6" column="0" />
@@ -94,6 +96,12 @@
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ParcelActivity.java" timestamp="1544326522039">
         <mark key="[" line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toast.xml" timestamp="1544965870228">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toastborder.xml" timestamp="1544965732213">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_main.xml" timestamp="1544964055796">
         <mark key="[" line="100" column="28" />
@@ -127,10 +135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>button2</text>
+        <text>Butt</text>
       </register>
       <register name="-" type="4">
-        <text>button2</text>
+        <text>Butt</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
@@ -217,6 +225,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
