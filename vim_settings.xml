@@ -25,11 +25,11 @@
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/java/kyungraekim/dev/hellotest/MenuActivity.java" timestamp="1544277300188">
         <mark key="[" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ToastActivity.java" timestamp="1544966551231">
-        <mark key="[" line="62" column="1" />
-        <mark key="]" line="56" column="20" />
-        <mark key="^" line="56" column="20" />
-        <mark key="." line="56" column="20" />
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ToastActivity.java" timestamp="1544968077858">
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="61" column="20" />
+        <mark key="^" line="61" column="20" />
+        <mark key="." line="61" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/AndroidManifest.xml" timestamp="1544278392163">
         <mark key="[" line="18" column="58" />
@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544966950174">
+      <file name="/Dummy.txt" timestamp="1544968417877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -135,10 +135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Button</text>
+        <text>TextView</text>
       </register>
       <register name="-" type="4">
-        <text>Button</text>
+        <text>TextView</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
