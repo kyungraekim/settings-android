@@ -63,10 +63,13 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545359202629">
+      <file name="/Dummy.txt" timestamp="1545362635891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/NewMainActivity.java" timestamp="1545361436787">
+        <mark key="[" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_parcel.xml" timestamp="1544950018001">
         <mark key="[" line="19" column="0" />
@@ -81,10 +84,10 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1544972888457">
-        <mark key="[" line="154" column="5" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1545362148020">
+        <mark key="[" line="181" column="5" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/drawable/button_selector.xml" timestamp="1544952550337">
         <mark key="[" line="2" column="8" />
@@ -126,7 +129,7 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544970426157">
+      <file name="/fragment.java" timestamp="1545361269010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/activity_menu.xml" timestamp="1544276691774">
@@ -143,11 +146,11 @@
       <jump line="30" column="53" filename="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_menu.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>button6</text>
       </register>
       <register name="-" type="4">
-        <text>Button</text>
+        <text>button6</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
