@@ -14,6 +14,12 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/values/colors.xml" timestamp="1544941142648">
         <mark key="[" line="4" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/fragment_main.xml" timestamp="1545371200245">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="12" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1544950249302">
         <mark key="[" line="1" column="9" />
       </file>
@@ -63,7 +69,7 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545369597306">
+      <file name="/Dummy.txt" timestamp="1545371243565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -71,10 +77,19 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/NewMainActivity.java" timestamp="1545361436787">
         <mark key="[" line="24" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/fragment_menu.xml" timestamp="1545370865165">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_parcel.xml" timestamp="1544950018001">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/FragmentActivity.java" timestamp="1545370005837">
+        <mark key="[" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/sub1.xml" timestamp="1544277133852">
         <mark key="[" line="6" column="0" />
@@ -114,6 +129,9 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ParcelActivity.java" timestamp="1544326522039">
         <mark key="[" line="9" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MenuFragment.java" timestamp="1545369744314">
+        <mark key="[" line="10" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ProgressActivity.java" timestamp="1545359511632">
         <mark key="[" line="15" column="26" />
       </file>
@@ -124,7 +142,7 @@
         <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/MainFragment.java" timestamp="1545368672426">
-        <mark key="[" line="12" column="44" />
+        <mark key="[" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_main.xml" timestamp="1544964055796">
         <mark key="[" line="99" column="28" />
@@ -143,7 +161,7 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545368765679">
+      <file name="/fragment.java" timestamp="1545369706400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/activity_menu.xml" timestamp="1544276691774">
@@ -161,43 +179,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>button8</text>
+        <text>BottomOf</text>
       </register>
       <register name="-" type="4">
-        <text>button8</text>
+        <text>BottomOf</text>
       </register>
       <register name="/" type="4">
         <text>orient</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZnJhZ21lbnRUZXh0VmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iTWFpbiBGcmFnbWVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVYPSI0ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjFkcCIgLz4KCiAgICA8QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mcmFnbWVudEJ1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvZnJhZ21lbnRUZXh0VmlldyIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkdvIE1lbnUiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjRkcCIKICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMjBkcCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgPFNlZWtCYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDptYXg9IjEwMCIKICAgICAgICAgICAgYW5kcm9pZDpwcm9ncmVzcz0iMTAwIiAvPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyVGV4dCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iMTAwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMGRwIiAvPgoKICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uMyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i7Iuc7YGs67CUIOuztOyXrOyjvOq4sCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiIC8+Cgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iRm9jdXMgQWN0aXZpdHkiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuRm9jdXNBY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iRm9jdXMgQWN0aXZpdHkiCiAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9UaGVtZS5BcHBDb21wYXQuRGlhbG9nIiAvPgoK</text>
+        <text encoding="base64">CiAgICAgICAgPFNlZWtCYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDptYXg9IjEwMCIKICAgICAgICAgICAgYW5kcm9pZDpwcm9ncmVzcz0iMTAwIiAvPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyVGV4dCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iMTAwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMGRwIiAvPgoKICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uMyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i7Iuc7YGs67CUIOuztOyXrOyjvOq4sCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiIC8+Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNjRkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkJ1dHRvbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMC41IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAK2lkL3RleHRWaWV3IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iRm9jdXMgQWN0aXZpdHkiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2FsbGJhY2sgdG8gaW5kaWNhdGUgdGhhdCB7QGxpbmsgI3N0YXJ0TG9jYWxWb2ljZUludGVyYWN0aW9uKEJ1bmRsZSl9IGhhcyByZXN1bHRlZCBpbiBhCiAgICAgKiB2b2ljZSBpbnRlcmFjdGlvbiBzZXNzaW9uIGJlaW5nIHN0YXJ0ZWQuIFlvdSBjYW4gbm93IHJldHJpZXZlIGEgdm9pY2UgaW50ZXJhY3RvciB1c2luZwogICAgICoge0BsaW5rICNnZXRWb2ljZUludGVyYWN0b3IoKX0uCiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb2NhbFZvaWNlSW50ZXJhY3Rpb25TdGFydGVkKCkgewogICAgICAgIHN1cGVyLm9uTG9jYWxWb2ljZUludGVyYWN0aW9uU3RhcnRlZCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuRm9jdXNBY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iRm9jdXMgQWN0aXZpdHkiCiAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9UaGVtZS5BcHBDb21wYXQuRGlhbG9nIiAvPgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2ltcGxlRGF0YSBjcmVhdGVGcm9tUGFyY2VsKFBhcmNlbCBpbikgewogICAgICAgICAgICByZXR1cm4gbmV3IFNpbXBsZURhdGEoaW4pOwogICAgICAgIH0KICAgICAgICAKICAgICAgICBwdWJsaWMgU2ltcGxlRGF0YVtdIG5ld0FycmF5KGludCBzaXplKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgU2ltcGxlRGF0YVtzaXplXTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNjRkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkJ1dHRvbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMC41IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAK2lkL3RleHRWaWV3IiAvPgo=</text>
       </register>
     </registers>
     <search>
