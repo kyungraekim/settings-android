@@ -6,11 +6,6 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_toast.xml" timestamp="1544963429230">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/AndroidManifest.xml" timestamp="1544277655865">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/values/colors.xml" timestamp="1544941142648">
         <mark key="[" line="4" column="45" />
       </file>
@@ -23,41 +18,17 @@
       <file name="$APPLICATION_CONFIG_DIR$/studio.vmoptions" timestamp="1544950249302">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_main.xml" timestamp="1543138023078">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_progress.xml" timestamp="1545359272438">
         <mark key="[" line="26" column="62" />
         <mark key="]" line="56" column="0" />
         <mark key="^" line="45" column="21" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/java/kyungraekim/dev/hellotest/MenuActivity.java" timestamp="1544277300188">
-        <mark key="[" line="18" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ToastActivity.java" timestamp="1544968077858">
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="61" column="20" />
-        <mark key="^" line="61" column="20" />
-        <mark key="." line="61" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/FragmentActivity.java" timestamp="1545660052555" />
       <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/AndroidManifest.xml" timestamp="1544278392163">
         <mark key="[" line="18" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/activity_focus.java" timestamp="1544949984963">
         <mark key="[" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/SampleCallIntent/app/src/main/java/com/example/kyungraekim/samplecallintent/MainActivity.java" timestamp="1544281777363">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="31" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyReceiver.java" timestamp="1544367800586">
-        <mark key="[" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java" timestamp="1544318522206">
         <mark key="[" line="682" column="0" />
@@ -70,11 +41,9 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/java/com/example/android/camera2video/AutoFitTextureView.java" timestamp="1545717874358" />
-      <file name="/Dummy.txt" timestamp="1545371243565">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/java/com/example/android/camera2video/AutoFitTextureView.java" timestamp="1545747901583">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/NewMainActivity.java" timestamp="1545361436787">
         <mark key="[" line="24" column="51" />
@@ -90,11 +59,87 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/FragmentActivity.java" timestamp="1545370005837">
-        <mark key="[" line="17" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/sub1.xml" timestamp="1544277133852">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_sliding.xml" timestamp="1545362912036">
+        <mark key="[" line="57" column="46" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ParcelActivity.java" timestamp="1544326522039">
+        <mark key="[" line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MenuFragment.java" timestamp="1545369744314">
+        <mark key="[" line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ProgressActivity.java" timestamp="1545359511632">
+        <mark key="[" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toastborder.xml" timestamp="1544965732213">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/MainFragment.java" timestamp="1545368672426">
+        <mark key="[" line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout-land/activity_main.xml" timestamp="1544961129589">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/build.gradle" timestamp="1544368956374">
+        <mark key="[" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/AndroidManifest.xml" timestamp="1544277655865">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/testcam/app/src/main/java/com/kyungraekim/dev/testcam/AutoFitTextureView.java" timestamp="1545747956230">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_main.xml" timestamp="1543138023078">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/java/kyungraekim/dev/hellotest/MenuActivity.java" timestamp="1544277300188">
+        <mark key="[" line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ToastActivity.java" timestamp="1544968077858">
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="61" column="20" />
+        <mark key="^" line="61" column="20" />
+        <mark key="." line="61" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/testcam/app/src/main/java/com/kyungraekim/dev/testcam/CameraFragment.java" timestamp="1545748735762">
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="55" column="61" />
+        <mark key="^" line="52" column="60" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/SampleCallIntent/app/src/main/java/com/example/kyungraekim/samplecallintent/MainActivity.java" timestamp="1544281777363">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyReceiver.java" timestamp="1544367800586">
+        <mark key="[" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/testcam/app/src/main/AndroidManifest.xml" timestamp="1545748003657">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545747301639">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/FragmentActivity.java" timestamp="1545370005837">
+        <mark key="[" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/java/com/example/kyungraekim/sampleintent/MenuActivity.java" timestamp="1544279019653">
         <mark key="[" line="14" column="47" />
@@ -112,11 +157,6 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_sliding.xml" timestamp="1545362912036">
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_fragment.xml" timestamp="1545368781659">
         <mark key="[" line="7" column="0" />
       </file>
@@ -125,27 +165,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/res/values/base-strings.xml" timestamp="1545661081347" />
       <file name="$USER_HOME$/workspace/android/cameraview-master/build.gradle" timestamp="1543415115134">
         <mark key="[" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ParcelActivity.java" timestamp="1544326522039">
-        <mark key="[" line="9" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MenuFragment.java" timestamp="1545369744314">
-        <mark key="[" line="10" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ProgressActivity.java" timestamp="1545359511632">
-        <mark key="[" line="15" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toast.xml" timestamp="1544965870228">
         <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toastborder.xml" timestamp="1544965732213">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/MainFragment.java" timestamp="1545368672426">
-        <mark key="[" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_main.xml" timestamp="1544964055796">
         <mark key="[" line="99" column="28" />
@@ -159,12 +183,7 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/SlidingActivity.java" timestamp="1545363245788">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout-land/activity_main.xml" timestamp="1544961129589">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1545369706400">
+      <file name="/fragment.java" timestamp="1545747308648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/activity_menu.xml" timestamp="1544276691774">
@@ -173,16 +192,13 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/build.gradle" timestamp="1544368956374">
-        <mark key="[" line="7" column="26" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="30" column="53" filename="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_menu.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BottomOf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBJTlZFUlNFX09SSUVOVEFUSU9OUy5hcHBlbmQoU3VyZmFjZS5ST1RBVElPTl8wLCAyNzApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>BottomOf</text>
@@ -191,34 +207,34 @@
         <text>orient</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZnJhZ21lbnRUZXh0VmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iTWFpbiBGcmFnbWVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVYPSI0ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjFkcCIgLz4KCiAgICA8QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mcmFnbWVudEJ1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvZnJhZ21lbnRUZXh0VmlldyIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkdvIE1lbnUiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjRkcCIKICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMjBkcCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBJTlZFUlNFX09SSUVOVEFUSU9OUy5hcHBlbmQoU3VyZmFjZS5ST1RBVElPTl8wLCAyNzApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlcyBhIG5ldyBUZXh0dXJlVmlldy4KICAgICAqCiAgICAgKiBAcGFyYW0gY29udGV4dCAgICAgIFRoZSBjb250ZXh0IHRvIGFzc29jaWF0ZSB0aGlzIHZpZXcgd2l0aC4KICAgICAqIEBwYXJhbSBhdHRycyAgICAgICAgVGhlIGF0dHJpYnV0ZXMgb2YgdGhlIFhNTCB0YWcgdGhhdCBpcyBpbmZsYXRpbmcgdGhlIHZpZXcuCiAgICAgKiBAcGFyYW0gZGVmU3R5bGVBdHRyIEFuIGF0dHJpYnV0ZSBpbiB0aGUgY3VycmVudCB0aGVtZSB0aGF0IGNvbnRhaW5zIGEKICAgICAqICAgICAgICAgICAgICAgICAgICAgcmVmZXJlbmNlIHRvIGEgc3R5bGUgcmVzb3VyY2UgdGhhdCBzdXBwbGllcyBkZWZhdWx0IHZhbHVlcyBmb3IKICAgICAqICAgICAgICAgICAgICAgICAgICAgdGhlIHZpZXcuIENhbiBiZSAwIHRvIG5vdCBsb29rIGZvciBkZWZhdWx0cy4KICAgICAqIEBwYXJhbSBkZWZTdHlsZVJlcyAgQSByZXNvdXJjZSBpZGVudGlmaWVyIG9mIGEgc3R5bGUgcmVzb3VyY2UgdGhhdAogICAgICogICAgICAgICAgICAgICAgICAgICBzdXBwbGllcyBkZWZhdWx0IHZhbHVlcyBmb3IgdGhlIHZpZXcsIHVzZWQgb25seSBpZgogICAgICogICAgICAgICAgICAgICAgICAgICBkZWZTdHlsZUF0dHIgaXMgMCBvciBjYW4gbm90IGJlIGZvdW5kIGluIHRoZSB0aGVtZS4gQ2FuIGJlIDAKICAgICAqLwogICAgcHVibGljIEF1dG9GaXRUZXh0dXJlVmlldyhDb250ZXh0IGNvbnRleHQsIEF0dHJpYnV0ZVNldCBhdHRycywgaW50IGRlZlN0eWxlQXR0ciwgaW50IGRlZlN0eWxlUmVzKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgYXR0cnMsIGRlZlN0eWxlQXR0ciwgZGVmU3R5bGVSZXMpOwogICAgfQogICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgPFNlZWtCYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDptYXg9IjEwMCIKICAgICAgICAgICAgYW5kcm9pZDpwcm9ncmVzcz0iMTAwIiAvPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyVGV4dCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iMTAwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMGRwIiAvPgoKICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uMyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i7Iuc7YGs67CUIOuztOyXrOyjvOq4sCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiIC8+Cgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iRm9jdXMgQWN0aXZpdHkiCg==</text>
+        <text encoding="base64">CiAgICAgICAgPFNlZWtCYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDptYXg9IjEwMCIKICAgICAgICAgICAgYW5kcm9pZDpwcm9ncmVzcz0iMTAwIiAvPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZWVrQmFyVGV4dCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iMTAwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMGRwIiAvPgoKICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uMyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i7Iuc7YGs67CUIOuztOyXrOyjvOq4sCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiIC8+Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuRm9jdXNBY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iRm9jdXMgQWN0aXZpdHkiCiAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9UaGVtZS5BcHBDb21wYXQuRGlhbG9nIiAvPgoK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNjRkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkJ1dHRvbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMC41IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAK2lkL3RleHRWaWV3IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iRm9jdXMgQWN0aXZpdHkiCg==</text>
       </register>
     </registers>
     <search>
