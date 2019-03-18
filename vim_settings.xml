@@ -9,6 +9,17 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/values/colors.xml" timestamp="1544941142648">
         <mark key="[" line="4" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/AndroidManifest.xml" timestamp="1544277655865">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/testcam/app/src/main/java/com/kyungraekim/dev/testcam/AutoFitTextureView.java" timestamp="1545747956230">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/fragment_main.xml" timestamp="1545371200245">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="35" />
@@ -23,83 +34,6 @@
         <mark key="]" line="56" column="0" />
         <mark key="^" line="45" column="21" />
         <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/AndroidManifest.xml" timestamp="1544278392163">
-        <mark key="[" line="18" column="58" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/activity_focus.java" timestamp="1544949984963">
-        <mark key="[" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java" timestamp="1544318522206">
-        <mark key="[" line="682" column="0" />
-        <mark key="]" line="682" column="0" />
-        <mark key="." line="682" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/drawable/toast.xml" timestamp="1544966001371">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
-        <mark key="[" line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/java/com/example/android/camera2video/AutoFitTextureView.java" timestamp="1545747901583">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="49" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/NewMainActivity.java" timestamp="1545361436787">
-        <mark key="[" line="24" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/fragment_menu.xml" timestamp="1545370865165">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_parcel.xml" timestamp="1544950018001">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/sub1.xml" timestamp="1544277133852">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_sliding.xml" timestamp="1545362912036">
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ParcelActivity.java" timestamp="1544326522039">
-        <mark key="[" line="9" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MenuFragment.java" timestamp="1545369744314">
-        <mark key="[" line="10" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ProgressActivity.java" timestamp="1545359511632">
-        <mark key="[" line="15" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toastborder.xml" timestamp="1544965732213">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/MainFragment.java" timestamp="1545368672426">
-        <mark key="[" line="13" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout-land/activity_main.xml" timestamp="1544961129589">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/build.gradle" timestamp="1544368956374">
-        <mark key="[" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/AndroidManifest.xml" timestamp="1544277655865">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/android/testcam/app/src/main/java/com/kyungraekim/dev/testcam/AutoFitTextureView.java" timestamp="1545747956230">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_main.xml" timestamp="1543138023078">
         <mark key="[" line="10" column="30" />
@@ -121,6 +55,12 @@
         <mark key="^" line="52" column="60" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/AndroidManifest.xml" timestamp="1544278392163">
+        <mark key="[" line="18" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/activity_focus.java" timestamp="1544949984963">
+        <mark key="[" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/android/SampleCallIntent/app/src/main/java/com/example/kyungraekim/samplecallintent/MainActivity.java" timestamp="1544281777363">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="31" />
@@ -130,21 +70,58 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyReceiver.java" timestamp="1544367800586">
         <mark key="[" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java" timestamp="1544318522206">
+        <mark key="[" line="682" column="0" />
+        <mark key="]" line="682" column="0" />
+        <mark key="." line="682" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/android/testcam/app/src/main/AndroidManifest.xml" timestamp="1545748003657">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545747301639">
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/drawable/toast.xml" timestamp="1544966001371">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MyService.java" timestamp="1544369450917">
+        <mark key="[" line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/android-Camera2Video-master/Application/src/main/java/com/example/android/camera2video/AutoFitTextureView.java" timestamp="1545747901583">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="49" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/NewMainActivity.java" timestamp="1545361436787">
+        <mark key="[" line="24" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/fragment_menu.xml" timestamp="1545370865165">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552920340391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_parcel.xml" timestamp="1544950018001">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/FragmentActivity.java" timestamp="1545370005837">
         <mark key="[" line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/helloTest/app/src/main/res/layout/sub1.xml" timestamp="1544277133852">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/android/SampleIntent/app/src/main/java/com/example/kyungraekim/sampleintent/MenuActivity.java" timestamp="1544279019653">
         <mark key="[" line="14" column="47" />
         <mark key="]" line="27" column="11" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_sliding.xml" timestamp="1545362912036">
+        <mark key="[" line="57" column="46" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MainActivity.java" timestamp="1545362148020">
         <mark key="[" line="181" column="5" />
@@ -165,11 +142,26 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ParcelActivity.java" timestamp="1544326522039">
+        <mark key="[" line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/MenuFragment.java" timestamp="1545369744314">
+        <mark key="[" line="10" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/android/cameraview-master/build.gradle" timestamp="1543415115134">
         <mark key="[" line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/ProgressActivity.java" timestamp="1545359511632">
+        <mark key="[" line="15" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toast.xml" timestamp="1544965870228">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/toastborder.xml" timestamp="1544965732213">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/MainFragment.java" timestamp="1545368672426">
+        <mark key="[" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout/activity_main.xml" timestamp="1544964055796">
         <mark key="[" line="99" column="28" />
@@ -183,6 +175,11 @@
       <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/java/com/example/kyungraekim/androidbasictest/newmain/SlidingActivity.java" timestamp="1545363245788">
         <mark key="[" line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/src/main/res/layout-land/activity_main.xml" timestamp="1544961129589">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1545747308648">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,6 +188,9 @@
         <mark key="]" line="11" column="30" />
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/AndroidBasicTest/app/build.gradle" timestamp="1544368956374">
+        <mark key="[" line="7" column="26" />
       </file>
     </filemarks>
     <jumps>
